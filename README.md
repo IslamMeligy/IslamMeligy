@@ -30,7 +30,7 @@
 - Building and maintaining various solutions to aid in the productization process of company software.
 - Projects: Merchant Center, Loyalty Retail, Universal Gateway, Dsquares Design System, Dsquares Shared Library, Dsquares CI/CD Process, Dsquares Broker Library.
 
-### Sr. Software Developer (Acting Team Leader) at Click HR Enterprise
+### Sr. Software Developer at Click HR Enterprise
 **Dec 2018 - Apr 2021 | Giza, Egypt**
 
 - Creating and maintaining HR solutions with a team of senior and junior developers.
