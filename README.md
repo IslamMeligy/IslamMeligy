@@ -5,7 +5,11 @@
 
 ## Senior Software Developer
 
-👋 Hi there! I'm Islam Meligy, a seasoned Senior Software Developer based in Cairo, Egypt. I am passionate about building robust and scalable software solutions that drive business success. With extensive experience in .NET technologies and a strong background in software architecture, I bring both leadership and technical expertise to the table.
+👋 Hi there! I'm Islam Meligy, a Senior Software Developer based in Cairo, Egypt, passionate about building robust and scalable .NET solutions that drive business success.  
+
+I discovered HTML in preschool, wrote my first “Hello, World!” in C#, and never stopped exploring. College, charity, and research work taught me resilience and adaptability—values I apply daily.
+
+ With extensive experience in .NET and software architecture, I focus on impact, leadership, and technical excellence in every project.
 
 ## 🔧 Technical Skills
 
